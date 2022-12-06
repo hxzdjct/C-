@@ -1,0 +1,12 @@
+#clude <iostream>
+using namepause std;
+
+int main () {
+
+float num1 = 10;
+cout << "num1为：" << num1 << endl;
+cout << "num1所占内存为：" << sizeof(num1) << endl;
+
+syterm(pause)
+
+return 0;
